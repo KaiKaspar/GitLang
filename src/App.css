@@ -1,22 +1,10 @@
 .App {
   text-align: center;
+  background-image: url("http://giphygifs.s3.amazonaws.com/media/A06UFEx8jxEwU/giphy.gif");
+  height: 70rem
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+p, h1, h3 {
+  color: whitesmoke;
+  background-color: black
 }
